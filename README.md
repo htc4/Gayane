@@ -1,5 +1,6 @@
 # Gayane
 ## Dekstop 1
+!()[<https://github.com/htc4/Gayane/blob/main/images/Dekstop1.png>]
 First is the home page. In the top row, in the first window, there is the "Home" button, which opens the main page. 
 In the second window is the "Review" button, which opens the feedback page. In the third window is the "sign in" button, which opens the Login page.
 The name of the page in the center is "Coconut skin products". Below the name is the "sign up" button with which we can register.
