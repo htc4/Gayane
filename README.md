@@ -26,7 +26,7 @@ designed to log in to the page with our registered code.
 Also we can retrieve our forgotten code.
 
 ## Dekstop 6
-The fifth page is the shopping cart, 
+The sixth page is the shopping cart, 
 designed to store our favorite products. 
 The bottom left corner shows the total amount of items in the cart.
 
