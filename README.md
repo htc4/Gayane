@@ -17,8 +17,7 @@ In the left corner, the site's social network, Facebook, Instagram and call data
 Below "Coconut skin products" are our selected products that we can order.
 
 ## Dekstop 4
-The fourth page is for leaving customer feedback. 
-After leaving each comment, they can also send a picture to the addressee.
+
 
 ## Dekstop 5
 The fifth page is the "sign in" page,
