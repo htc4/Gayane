@@ -6,26 +6,31 @@ In the second window is the "Review" button, which opens the feedback page. In t
 The name of the page in the center is "Coconut skin products". Below the name is the "sign up" button with which we can register.
 
 ## Dekstop 2
+![](https://github.com/htc4/Gayane/blob/main/images/Dekstop2.png)
 The second page is the sign up page. 
 Registration is done with a phone number,
 and a code sent to the phone number.
 
 ## Dekstop 3
-
+![](https://github.com/htc4/Gayane/blob/main/images/Dekstop3.png)
 On the third page is a menu where the product for sale is presented. 
 In the left corner, the site's social network, Facebook, Instagram and call data is indicated. 
 15 coconut-based products are presented. We can also choose the product values and quantity.
 Below "Coconut skin products" are our selected products that we can order.
 
 ## Dekstop 4
-
+![](https://github.com/htc4/Gayane/blob/main/images/Dekstop4.png)
+The fourth page is for leaving customer feedback. 
+After leaving each comment, they can also send a picture to the addressee.
 
 ## Dekstop 5
+![](https://github.com/htc4/Gayane/blob/main/images/Dekstop5.png)
 The fifth page is the "sign in" page,
 designed to log in to the page with our registered code. 
 Also we can retrieve our forgotten code.
 
 ## Dekstop 6
+![](https://github.com/htc4/Gayane/blob/main/images/Dekstop6.png)
 The sixth page is the shopping cart, 
 designed to store our favorite products. 
 The bottom left corner shows the total amount of items in the cart.
