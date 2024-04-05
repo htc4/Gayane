@@ -1,0 +1,38 @@
+body {
+    background-image: url(./images/beground.jpg);
+    background-size: 100%; /* Adjust the height to 50% */
+    background-repeat: no-repeat; /* Ensure the image is not repeated */
+}
+.hedder{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.menu{
+    margin-left: 5%;
+    height: 80%;
+    width: 20%;
+    font-size: 351%;
+    color: #EDE3D9;
+    background-color: #3B1B05;
+    border-color: #3B1B05;
+}
+
+h1{
+    margin-left: 20%;
+    margin-top: 16%;
+    height: 80%;
+    width: 20%;
+    font-size: 438%; 
+    color: #EDE3D9;
+    white-space: nowrap;
+}
+.main_contenier{
+    margin-left: 40%;
+    margin-top: 0%;
+    height: 11%;
+    width: 19%;
+    font-size: 250%;
+    background-image: url(/images/Rectangle\ 44.jpg);
+    color: #3B1B05;
+    background-color: #EDE3D9;
+}
